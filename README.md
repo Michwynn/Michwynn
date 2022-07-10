@@ -1,6 +1,6 @@
 - 👋: Hi, I’m @Michwynn
 - 👀: I’m interested in Data Science
-- 🌱: I’m currently learning Networks Analysis and Data Mining
+- 🌱: I’m currently Machine Learning Pipelines & Experimental Design
 - 📫: michael.wynn23@hotmail.com
 - 🧑‍💼: https://www.linkedin.com/in/michael-wynn-6006b0106/?originalSubdomain=sg
 
